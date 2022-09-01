@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://korat1990.vercel.app/sitemap.xml
